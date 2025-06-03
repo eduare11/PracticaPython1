@@ -1,0 +1,3 @@
+lalo: Notas: [10.0, 10.0, 10.0, 8.0, 8.0], Promedio: 9.20
+fredy: Notas: [10.0, 10.0, 10.0, 8.0, 8.0, 9.0], Promedio: 9.17
+cris: Notas: [10.0, 10.0, 8.0, 9.0, 9.0], Promedio: 9.20
