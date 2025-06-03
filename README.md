@@ -13,5 +13,7 @@ git clone https://github.com/tu-usuario/PracticaPython1.git
 cd PracticaPython1
 
 2. Requeri...
+pip install -r requrimentos_EAC.txt
+
 nano requrimentos_EAC.txt
 pip3 freeze > requrimentos_EAC.txt
